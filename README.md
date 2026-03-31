@@ -1,8 +1,8 @@
-# TP-Final---Yarvi-Web-Robot-Wireless-Interface
-
 # 🤖 Yarvi — Control de Robot Asistente por Red
 
-Proyecto Integrador Anual — 
+**Proyecto Integrador Anual **
+---
+
 Redes I 5° Año · Colegio Técnico Provincial "Olga B. de Arko"
 Prof. Nicolás A. Cussi
 
