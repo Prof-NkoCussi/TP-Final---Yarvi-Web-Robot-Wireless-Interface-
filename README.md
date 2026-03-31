@@ -1,6 +1,6 @@
-# 🤖 Yarvi — Control de Robot Asistente por Red
+# 🤖 Yarvi — App Web + Control de Robot por Red
 
-**Proyecto Integrador Anual **
+**Proyecto Integrador Anual**
 ---
 
 Redes I 5° Año · Colegio Técnico Provincial "Olga B. de Arko"
