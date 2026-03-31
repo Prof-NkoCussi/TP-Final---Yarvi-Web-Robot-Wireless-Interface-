@@ -198,7 +198,7 @@ curl http://localhost:3000/api/robot/status
 
 ## 🛡️ Consideraciones de Seguridad
 
-El sistema actual es un prototipo educativo. Vulnerabilidades conocidas y posibles mejoras:
+El sistema actual es un prototipo. Vulnerabilidades y posibles mejoras:
 
 | Vulnerabilidad | Riesgo | Mejora propuesta |
 |---------------|--------|-----------------|
@@ -259,4 +259,4 @@ Proyecto Integrador — Colegio Técnico Provincial "Olga B. de Arko", Ushuaia, 
 
 ---
 
-Redes I — Prof. Nicolás A. Cussi —
+**Redes I — Prof. Nicolás A. Cussi —**
