@@ -3,7 +3,7 @@
 **Proyecto Integrador Anual**
 ---
 
-Redes I 5° Año · Colegio Técnico Provincial "Olga B. de Arko"
+Redes I - 5° Año · Colegio Técnico Provincial "Olga B. de Arko"
 Prof. Nicolás A. Cussi
 
 ---
@@ -18,35 +18,35 @@ El usuario envía comandos desde el navegador → el servidor los recibe vía HT
 
 ```
 ┌─────────────────┐
-│   Navegador      │  ← Cliente (HTML + JS)
-│   (Usuario)      │
+│   Navegador        │  ← Cliente (HTML + JS)
+│   (Usuario)        │
 └────────┬────────┘
          │  HTTP / REST / JSON
          │  Puerto 3000
          ▼
 ┌─────────────────┐
-│  Servidor        │  ← Node.js + Express
-│  Node.js         │
+│  Servidor          │  ← Node.js + Express
+│  Node.js           │
 └────────┬────────┘
          │  MQTT publish
          │  Puerto 1883
          ▼
 ┌─────────────────┐
-│  Broker          │  ← Mosquitto
-│  Mosquitto       │
+│  Broker            │  ← Mosquitto
+│  Mosquitto         │
 └────────┬────────┘
          │  MQTT subscribe
          │  WiFi (misma LAN)
          ▼
 ┌─────────────────┐
-│  ESP32           │  ← Microcontrolador WiFi
-│  (IP fija)       │     IP: 192.168.x.x
+│  ESP32             │  ← Microcontrolador WiFi
+│  (IP fija)         │     IP: 192.168.x.x
 └────────┬────────┘
          │  PWM / GPIO
          ▼
 ┌─────────────────┐
-│  Driver L9110S   │  → Motores TT
-│  + Chasis        │  → Movimiento del robot
+│  Driver L9110S     │  → Motores TT
+│  + Chasis          │  → Movimiento del robot
 └─────────────────┘
 ```
 
@@ -223,7 +223,7 @@ netstat -an | grep 1883    # Broker MQTT
 # Filtro sugerido en Wireshark: mqtt || http
 ```
 
-## 🗂️ Contenidos Curriculares Integrados
+## 🗂️ Contenidos Integrados
 
 ### Redes I
 - Direccionamiento IPv4 y subnetting
@@ -244,7 +244,6 @@ netstat -an | grep 1883    # Broker MQTT
 ### Software II
 - Git: clone, add, commit, push, branch
 - Documentación técnica (README)
-- Resolución de conflictos en repositorios colaborativos
 
 ## 👥 Equipo
 
@@ -256,7 +255,7 @@ netstat -an | grep 1883    # Broker MQTT
 
 ## 📄 Licencia
 
-Proyecto educativo — Colegio Técnico Provincial "Olga B. de Arko", Ushuaia, Tierra del Fuego.
+Proyecto Integrador — Colegio Técnico Provincial "Olga B. de Arko", Ushuaia, Tierra del Fuego.
 
 ---
 
