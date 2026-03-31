@@ -1,4 +1,4 @@
-# 🤖 Yarvi — App Web + Control de Robot por Red
+# 🤖 Yarvi — App Web + Robot controlado en Red
 
 **Proyecto Integrador Anual**
 ---
